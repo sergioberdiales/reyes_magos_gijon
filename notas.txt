@@ -1,0 +1,1 @@
+Para descargar las coordenadas de una ruta de Google Maps: https://webapps.stackexchange.com/questions/34159/how-to-convert-google-map-route-into-array-of-coordinates
